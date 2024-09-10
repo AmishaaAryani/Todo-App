@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+<img src="https://raw.githubusercontent.com/AmishaaAryani/Todo-App/master/public/img-git/todo.png"/>
 ## Available Scripts
 
 In the project directory, you can run:
